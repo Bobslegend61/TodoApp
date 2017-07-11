@@ -1,0 +1,13 @@
+h2{
+  margin: 0px;
+  padding: 20px;
+}
+
+/* icon prefix focus color */
+ .input-field .prefix.active {
+   color: #ff1744;
+ }
+
+.error{
+  display: none;
+}

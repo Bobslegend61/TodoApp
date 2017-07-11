@@ -1,0 +1,22 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Creates a list of todos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobslegend61/TodoApp.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Alabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobslegend61/TodoApp/issues"
+  },
+  "homepage": "https://github.com/Bobslegend61/TodoApp#readme"
+}
